@@ -21,10 +21,7 @@ This repository houses a systematic Exploratory Data Analysis (EDA) of IPL histo
 - **Pressure Metrics:** Analysis of Required Run Rate (RRR) as a variable for batting aggression.
 - **Consistency Mapping:** Long-term performance auditing of franchise powerhouses (MI, CSK, KKR).
 
-## 🚀 Getting Started
-1. Clone the repository:
-```bash
-   git clone [https://github.com/your-username/ipl-analysis.git](https://github.com/your-username/ipl-analysis.git)
-
-   ## 📁 Dataset
+## 📁 Dataset
 [Click here to view dataset](data/ipl_ball_by_ball_delivery.csv)
+
+
