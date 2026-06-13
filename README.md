@@ -16,6 +16,10 @@ This repository houses a systematic Exploratory Data Analysis (EDA) of IPL histo
 - `reports/`: In-depth technical analysis and conclusions.
 - `src/`: Reusable Python modules for data processing.
 
+## Report File
+[Click here to read the Analysis report](Analysis_report/Report.md)
+
+
 ## 📈 Analytical Highlights
 - **Phased Scoring Trends:** Quantified the acceleration delta between Powerplays and Death Overs.
 - **Pressure Metrics:** Analysis of Required Run Rate (RRR) as a variable for batting aggression.
@@ -23,5 +27,6 @@ This repository houses a systematic Exploratory Data Analysis (EDA) of IPL histo
 
 ## 📁 Dataset
 [Click here to view dataset](data/ipl_ball_by_ball_delivery.csv)
+
 
 
